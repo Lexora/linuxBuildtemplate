@@ -2,3 +2,4 @@
 
 *  Inkscape
 *   [cherryTree](https://github.com/giuspen/cherrytree#building-cherrytree-on-ubuntu )
+* [clipit](https://github.com/CristianHenzel/ClipIt/find/master)
